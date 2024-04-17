@@ -30,7 +30,12 @@ export default function Chat() {
         onScroll={onScroll}
         ref={scrollRef}
       >
+        <div class="message-window">
+
+<div class="message-area">
         <Messages />
+        </div>
+        </div>
         {!isOnBottom && (
           <div
             style={{

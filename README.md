@@ -1,3 +1,14 @@
+# Blueprints
+
+### https://codepen.io/nutty7t/pen/qzzGOR (disable `	<div v-if="window.devicePixelRatio === 1">` to view)
+
+https://codepen.io/jturnerwhite/pen/EWRdNB
+
+### https://matrix.org/
+
+
+
+
 # Full-stack real-time chat
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/38b6f457-50d2-42ac-b9a8-9ca962febebd/deploy-status)](https://app.netlify.com/sites/random-chat/deploys)

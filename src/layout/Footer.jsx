@@ -24,12 +24,20 @@ export default function Footer() {
             rel="noreferrer"
           >
             <FaTwitter style={{ display: "inline" }} />
-            @shwosner
+            @shwosner   _
+          </a>
+          <a
+            href="https://twitter.com/zzz6519003"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <FaTwitter style={{ display: "inline" }} />
+            forked by @zzz6519003
           </a>
         </GridItem>
         <GridItem justifySelf="end">
-          <a
-            href="https://github.com/shwosner/realtime-chat-supabase-react"
+        <a
+            href="https://github.com/zzz6519003/realtime-chat-supabase-react"
             target="_blank"
             rel="noreferrer"
           >
