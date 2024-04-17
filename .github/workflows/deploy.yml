@@ -37,6 +37,6 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "samsnowman-realtime-ch-86"
+          project: "persona-5-chat"
           entrypoint: "https://deno.land/std@0.217.0/http/file_server.ts"
           root: "dist"
