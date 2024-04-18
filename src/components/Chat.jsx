@@ -29,6 +29,8 @@ export default function Chat() {
         height={height}
         onScroll={onScroll}
         ref={scrollRef}
+        background={"red"}
+        className="fffz"
       >
         <div class="message-window">
 
